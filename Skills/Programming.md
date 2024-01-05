@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git: 🖐 used
-  -github: 🖐 used
+  - github: 🖐 used
