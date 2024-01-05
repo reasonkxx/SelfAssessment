@@ -1,94 +1,94 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  🖐- value
-  🖐- identifier
-  🖐- variable
-  🖐- constant
-  🖐- scalar
-  🎓- literal
-  🖐- expression
-  🖐- heap
-  🖐- function
-  🎓- procedure
-  🖐- method
-  🖐- class
-  🎓- prototypeА
-  🎓- event
-  🖐- type
-  🎓- primitive types
-  🎓- reference types
-  🖐-- flag
+  - value: 🖐 used
+  - identifier 🖐 used
+  - variable: 🖐 used
+  - constant: 🖐 used
+  - scalar: 🖐 used
+  - literal:🎓 know
+  - expression: 🖐 used
+  - heap: 🖐 used
+  - function: 🖐 used
+  - procedure:🎓 know
+  - method: 🖐 used
+  - class: 🖐 used
+  - prototypeА:🎓 know
+  - event:🎓 know
+  - type: 🖐 used
+  - primitive types:🎓 know
+  - reference types:🎓 know
+  - flag: 🖐 used
   - lexical scope
   - code block
-  🖐- conditions
+  - conditions: 🖐 used
   - loops
   - assignment
-  🖐- regular expression
-  🖐- interface
+  - regular expression: 🖐 used
+  - interface: 🖐 used
   - contract
-  🖐- module
+  - module: 🖐 used
   - call stack
 - Functions
-  🖐- signature
-  🖐- argument
-  🖐- parameter
+  - signature: 🖐 used
+  - argument: 🖐 used
+  - parameter: 🖐 used
   - pure function
-  🖐- lambda expression
-   - side effects
-  🎓- closure
+  - lambda expression: 🖐 used
+  - side effects
+  - closure: 🎓 know
   - partial application
   - curry
   - higher order
   - recursion
-  🎓- callback
+  - callback: 🎓 know
   - listener
-  🎓- compose
-  👂 - pipe
+  - compose
+  - pipe: 👂 heard
   - memoize
-  🖐- wrapper
+  - wrapper: 🖐 used
   - functor
   - monad
   - monoid
-  🎓- generator
+  - generator: 🎓 know
   - coroutine
 - Data structures
-  🖐- array
-  🖐- structure
-  🎓- record
-  🖐- enum
+  - array: 🖐 used
+  - structure: 🖐 used
+  - record: 🖐 used
+  - enum: 🖐 used
   - instance
-  🖐- object
-  🖐- class
-  🖐- collection
-  🎓- set
-  🎓- hash table
-  👂- linked list
+  - object: 🖐 used
+  - class: 🖐 used
+  - collection: 🖐 used
+  - set: 🎓 know
+  - hash table: 🎓 know
+  -linked list: 👂 heard
   - doubly list
   - unrolled list
   - circular list
-  🎓- queue
-  🎓- stack
+  - queue: 🎓 know
+  - stack: 🎓 know
   - deque
-  👂- tree
-  👂- graph
-  🎓- iterator
-  🎓- mutable state
-  🎓- immutable state
+  - tree: 👂 heard
+  - graph: 👂 heard
+  - iterator: 🎓 know
+  - mutable state: 🎓 know
+  - immutable state: 🎓 know
   - serialization
-  🎓- string parsing
+  - string parsing: 🎓 know
 - Process & style
-🖐- compiler
+  -compiler: 🖐 used
   - transpiler
   - linter
   - polyfill
- 🖐- debugger
+  - debugger: 🖐 used
   - garbage collection
   - refactoring
   - code review
   - antipatterns
   - paradigm
- 🎓 - algorithm
+  - algorithm: 🎓 know
   - magic numbers
   - hardcode
   - complexity
@@ -99,8 +99,8 @@
   - dead code
   - unreachable code
   - duplicate code
-  🖐- exception
+  - exception: 🖐 used
   - return early
   - unittest
- 🖐 - git
- 🖐 - github
+  - git: 🖐 used
+  -github: 🖐 used
